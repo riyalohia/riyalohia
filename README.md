@@ -6,7 +6,7 @@
 <a href="https://riyalohia.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-white?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/riya-lohia-565b18140/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:riyalh1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail"></a>
-[![Github](https://img.shields.io/badge/-Github-blue?style=flat&logo=Github&logoColor=white)](https://github.com/riyalohia)
+<a href="https://github.com/riyalohia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-blue?style=flat&logo=Github&logoColor=white"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
