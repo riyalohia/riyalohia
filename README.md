@@ -26,4 +26,4 @@ const skills = {
 
 ---
 
-⭐️ From [@riya](https://riyalohia.github.io/portfolio/)
+⭐️ From [@Riya](https://riyalohia.github.io/portfolio/)
