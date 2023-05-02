@@ -1,6 +1,6 @@
 <h2> Hi, I'm Riya Lohia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Development Engineer at <a href="https://innovaccer.com/">Innovaccer Analytics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Google Summer of Code'18 at <a href="https://github.com/sugarlabs">SugarLabs</a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Development Engineer at <a href="https://cohesive.so/">Cohesive</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Google Summer of Code'18 at <a href="https://github.com/sugarlabs">SugarLabs</a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 <a href="https://riyalohia.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-white?style=flat&logo=google-chrome"></a>
