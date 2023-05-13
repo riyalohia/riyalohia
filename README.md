@@ -14,12 +14,12 @@
 ```javascript
 const skills = {
   web: [HTML, CSS, JavaScript, Web Workers, Web Sockets],
-  libraries: [React, Redux, SWR, Zustand],
+  libraries: [React, Redux, Swr, Zustand],
   framework: [ExpressJS, NextJS],
   testing: [Jest, Enzyme, React-Testing-Library],
   database: [MongoDB],
   performance: [Lighthouse, Sentry]
-  others: [Typescript, Storybook, Styled-Components, Material UI, SlateJS, ChatGPT]
+  others: [Typescript, Storybook, Styled-Components, MaterialUI, SlateJS, ChatGPT]
 }
 ```
 [![Riya's github stats](https://github-readme-stats.vercel.app/api?username=riyalohia&show_icons=true&theme=merko&hide=stars,contribs&include_all_commits=true&count_private=true)](https://github.com/riyalohia)<br/>
