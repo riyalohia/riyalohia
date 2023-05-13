@@ -18,7 +18,7 @@ const skills = {
   framework: [ExpressJS, NextJS],
   testing: [Jest, Enzyme, React-Testing-Library],
   database: [MongoDB],
-  performance: [Lighthouse, Sentry]
+  performance: [Lighthouse, Sentry],
   others: [Typescript, Storybook, Styled-Components, MaterialUI, SlateJS, ChatGPT]
 }
 ```
